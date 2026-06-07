@@ -1,3 +1,4 @@
-# Week 2 Assignment
+# Week 3 Assignment
 
-Built an end-to-end Machine Learning pipeline on the Tesla Sales/Production dataset, including preprocessing, EDA, feature engineering, regression modeling, hyperparameter tuning, and forecasting.
+Develop a Customer Intelligence System using classification, ensemble & clustering.
+Developed an end-to-end Customer Intelligence System using classification, ensemble learning (Random Forest, XGBoost), and clustering (K-Means, DBSCAN), achieving optimized predictive performance and actionable customer segmentation insights.
