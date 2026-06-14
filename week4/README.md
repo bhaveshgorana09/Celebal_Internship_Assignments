@@ -1,3 +1,3 @@
-# Week 2 Assignment
+# Week 4 Assignment
 
-Built an end-to-end Machine Learning pipeline on the Tesla Sales/Production dataset, including preprocessing, EDA, feature engineering, regression modeling, hyperparameter tuning, and forecasting.
+Build an image classification model on CIFAR-10 and analyze performance across architectures and training strategies. (Do it with both ANN & CNN)
