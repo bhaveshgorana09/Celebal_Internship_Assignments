@@ -1,3 +1,4 @@
-# Week 2 Assignment
+# Week 5 Assignment
 
-Built an end-to-end Machine Learning pipeline on the Tesla Sales/Production dataset, including preprocessing, EDA, feature engineering, regression modeling, hyperparameter tuning, and forecasting.
+Text Generation using RNN/LSTM.
+Design and implement a DL model capable of learning the underlying structure, grammar, and contextual dependencies of a given text corpus to generate coherent and meaningful text sequences using vanilla RNN, LSTM, and GRU.
