@@ -1,3 +1,4 @@
-# Week 2 Assignment
+# Week 7 Assignment
 
-Built an end-to-end Machine Learning pipeline on the Tesla Sales/Production dataset, including preprocessing, EDA, feature engineering, regression modeling, hyperparameter tuning, and forecasting.
+#Document Question Answering System (RAG).
+Develop a simple Retrieval-Augmented Generation (RAG) system to answer questions from custom documents. Build a pipeline that retrieves relevant information from a document and uses a language model to generate answers.
