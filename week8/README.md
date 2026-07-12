@@ -17,11 +17,20 @@ An intelligent, single-agent AI system designed to parse user intent dynamically
 - Cyberpunk Interactive Interface: Responsive UI layer packaged with custom CSS injections and dynamic execution route badges.
 
 ---
+
+## 🖼️ Project Previews & Visual Analytics
+### 1. Application Interface
 ![Agentic AI Pipeline](assets/Agentic%20AI%20Pipeline%20Smart%20Assistant%20(Chatbot).png)
 
+
+### 2. Math Intent: "Calculate (1200 / 4) + 50" $\rightarrow$ Returns calculated evaluation string via safe local execution.
 ![Chatbot Screen 1](assets/Chatbot%201.png)
 
+### 3. Keyword Intent: "Extract keywords from data science infrastructure..." $\rightarrow$ Evaluates structural tokens locally.
+
 ![Chatbot Screen 2](assets/Chatbot%202.png)
+
+### 4. General Intent: "Explain deep learning in two sentences." $\rightarrow$ Triggers model execution context securely via Gemini.
 
 ![Chatbot Screen 3](assets/Chatbot%203.png)
 
