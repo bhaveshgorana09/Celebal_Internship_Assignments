@@ -16,6 +16,19 @@ An intelligent, single-agent AI system designed to parse user intent dynamically
 - Secure Credential Handling: Collects API keys implicitly using getpass to prevent hardcoding configuration tokens.
 - Cyberpunk Interactive Interface: Responsive UI layer packaged with custom CSS injections and dynamic execution route badges.
 
+---
+![Agentic AI Pipeline](assets/Agentic%20AI%20Pipeline%20Smart%20Assistant%20(Chatbot).png)
+
+![Chatbot Screen 1](assets/Chatbot%201.png)
+
+![Chatbot Screen 2](assets/Chatbot%202.png)
+
+![Chatbot Screen 3](assets/Chatbot%203.png)
+
+
+---
+
+
 ## 📂 Project Architecture
 
 The system operates as a single-agent stateful routing machine:
