@@ -75,7 +75,7 @@ Open the project inside a Jupyter/Google Colab environment and execute the execu
 
 - Authentication: When prompted, paste your Gemini API Key:
 ```
-Enter your Gemini API Key: ··········
+Enter your Gemini API Key: (KEY......)
 🚀 Gemini Client successfully initialized!
 ```
 
